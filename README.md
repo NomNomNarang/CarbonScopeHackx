@@ -1,11 +1,6 @@
-<h1 align="center">🌍 CarbonScope</h1> <h3 align="center">Agentic Net Zero Intelligence</h3> <p align="center"><b>Measure. Act. Restore. Together.</b></p> <p align="center"> 🏆 <b>Runner Up – MUJ HackX 2025</b> <br> 🎯 <b>Theme: AI for Social Impact</b> </p>
-<p align="center"> CarbonScope is a sustainability focused web platform built during a national hackathon to make <br> <b>digital carbon emissions visible, measurable, and actionable</b>. </p>
-<h2 align="center">🌎 Why CarbonScope Exists</h2> <p align="center"> Digital activities are not carbon neutral, yet their environmental impact often goes unnoticed. </p>
-
+<h1 align="center">🌍 CarbonScope 🌱</h1> <p align="center"><b>Agentic Net Zero Intelligence</b></p> <p align="center">Measure. Act. Restore. Together.</p> <p align="center"> 🏆 <b>Runner Up – MUJ HackX 2025</b> &nbsp; | &nbsp; 🎯 <b>AI for Social Impact</b> </p> <p align="center"> <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="60"/> <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="60"/> <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="60"/> </p>
 A single email can emit up to 4g of CO₂
-
 One hour of HD video streaming is equivalent to charging 20 smartphones
-
 Cloud storage and data centers contribute nearly 3% of global emissions, and this number is increasing
 
 <p align="center"> <b>When environmental impact is invisible, behavior rarely changes.</b><br> CarbonScope exists to make that impact visible and meaningful. </p>
@@ -14,25 +9,19 @@ Cloud storage and data centers contribute nearly 3% of global emissions, and thi
 CarbonScope focuses on:
 
 Tracking digital carbon emissions
-
 Converting raw data into actionable sustainability insights
-
 Linking digital behavior with real world environmental restoration
-
 <p align="center"> Rather than being just a reporting dashboard, CarbonScope functions as a <b>sustainability copilot</b>. </p>
 <h2 align="center">⚙️ What CarbonScope Does</h2>
 
 CarbonScope provides an interactive dashboard that:
 
 Visualizes environmental impact data clearly
-
 Helps users interpret carbon related metrics
-
 Supports data backed sustainability decisions
-
 Encourages measurable carbon reduction behavior
 
-<p align="center"> <b>Awareness → Understanding → Action</b> </p>
+<h1> <b>Awareness → Understanding → Action</b> </h1>
 <h2 align="center">🌊 Restoration and Impact Vision</h2>
 
 CarbonScope goes beyond tracking emissions.
