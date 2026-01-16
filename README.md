@@ -1,7 +1,4 @@
-<h1 align="center">🌍 CarbonScope 🌱</h1> <p align="center"><b>Agentic Net Zero Intelligence</b></p> <p align="center">Measure. Act. Restore. Together.</p> <p align="center"> 🏆 <b>Runner Up – MUJ HackX 2025</b> &nbsp; | &nbsp; 🎯 <b>AI for Social Impact</b> </p> <p align="center"> <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="60"/> <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="60"/> <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="60"/> </p>
-A single email can emit up to 4g of CO₂
-One hour of HD video streaming is equivalent to charging 20 smartphones
-Cloud storage and data centers contribute nearly 3% of global emissions, and this number is increasing
+<h1 align="center">🌍 CarbonScope 🌱</h1> <p align="center"><b>Agentic Net Zero Intelligence</b></p> <p align="center">Measure. Act. Restore. Together.</p> <p align="center"> 🏆 <b>Runner Up – MUJ HackX 2025</b> &nbsp; | &nbsp; 🎯 <b>AI for Social Impact</b> </p> <p align="center"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50"/> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50"/> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50"/> </p>
 
 <p align="center"> <b>When environmental impact is invisible, behavior rarely changes.</b><br> CarbonScope exists to make that impact visible and meaningful. </p>
 <h2 align="center">💡 Our Solution</h2> <p align="center"> CarbonScope acts as a <b>carbon intelligence system</b> that helps users understand and reduce their digital carbon footprint. </p>
