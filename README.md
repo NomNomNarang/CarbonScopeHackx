@@ -1,54 +1,41 @@
-🌍🔥 CarbonScope 🌱
-Agentic Net Zero Intelligence
-<p align="center"> <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="260"> </p>
-Measure. Act. Restore. Together.
+<h1 align="center">🌍 CarbonScope</h1> <h3 align="center">Agentic Net Zero Intelligence</h3> <p align="center"><b>Measure. Act. Restore. Together.</b></p> <p align="center"> 🏆 <b>Runner Up – MUJ HackX 2025</b> <br> 🎯 <b>Theme: AI for Social Impact</b> </p>
+<p align="center"> CarbonScope is a sustainability focused web platform built during a national hackathon to make <br> <b>digital carbon emissions visible, measurable, and actionable</b>. </p>
+<h2 align="center">🌎 Why CarbonScope Exists</h2> <p align="center"> Digital activities are not carbon neutral, yet their environmental impact often goes unnoticed. </p>
 
-🏆 Runner Up – MUJ HackX 2025
-🎯 Theme: AI for Social Impact
+A single email can emit up to 4g of CO₂
 
-CarbonScope is a sustainability focused web platform built during a national hackathon to make digital carbon emissions visible, measurable, and actionable.
+One hour of HD video streaming is equivalent to charging 20 smartphones
 
-🌎 Why CarbonScope Exists
+Cloud storage and data centers contribute nearly 3% of global emissions, and this number is increasing
 
-Your digital life is not carbon neutral but most people never see its impact.
+<p align="center"> <b>When environmental impact is invisible, behavior rarely changes.</b><br> CarbonScope exists to make that impact visible and meaningful. </p>
+<h2 align="center">💡 Our Solution</h2> <p align="center"> CarbonScope acts as a <b>carbon intelligence system</b> that helps users understand and reduce their digital carbon footprint. </p>
 
-💌 A single email can emit up to 4g of CO₂
-📺 1 hour of HD video streaming ≈ charging 20 smartphones
-☁️ Cloud storage & data centers contribute ~3% of global emissions and rising
+CarbonScope focuses on:
 
-👉 When impact is invisible, behavior rarely changes.
+Tracking digital carbon emissions
 
-CarbonScope exists to change that.
+Converting raw data into actionable sustainability insights
 
-<p align="center"> <img src="https://media.giphy.com/media/xT0GqFhyNd0Wmfo6sM/giphy.gif" width="250"> </p>
-💡 Our Solution
+Linking digital behavior with real world environmental restoration
 
-CarbonScope makes carbon visible first and then actionable.
-
-It acts as a carbon intelligence system that:
-
-Tracks digital carbon emissions
-
-Converts raw data into meaningful sustainability insights
-
-Connects digital behavior with real world environmental restoration
-
-Think of CarbonScope as a sustainability copilot, not just another dashboard.
-
-⚙️ What CarbonScope Does
+<p align="center"> Rather than being just a reporting dashboard, CarbonScope functions as a <b>sustainability copilot</b>. </p>
+<h2 align="center">⚙️ What CarbonScope Does</h2>
 
 CarbonScope provides an interactive dashboard that:
 
-✅ Visualizes environmental impact data
-✅ Helps users interpret carbon metrics easily
-✅ Supports data backed sustainability decisions
-✅ Encourages measurable carbon reduction behavior
+Visualizes environmental impact data clearly
 
-The goal is awareness → understanding → action.
+Helps users interpret carbon related metrics
 
-🌊 Restoration & Impact Vision
+Supports data backed sustainability decisions
 
-CarbonScope goes beyond tracking.
+Encourages measurable carbon reduction behavior
+
+<p align="center"> <b>Awareness → Understanding → Action</b> </p>
+<h2 align="center">🌊 Restoration and Impact Vision</h2>
+
+CarbonScope goes beyond tracking emissions.
 
 It explores transparent and community driven sustainability models, including:
 
@@ -58,69 +45,36 @@ Participation from rural contributors and local communities
 
 Trust based validation concepts for sustainability initiatives
 
-Focus on blue carbon ecosystems like mangroves and coastal restoration
+Focus on <b>blue carbon ecosystems</b>, such as mangroves and coastal restoration
 
-The platform is designed for:
+<p align="center"> Designed for <b>individuals, NGOs, communities, and policymakers</b> — not just enterprises. </p>
+<h2 align="center">🎥 Demo Video</h2> <p align="center"> <a href="https://drive.google.com/file/d/15MGhlgkW2ATjjL0ZTP2NJRyQtvw_NMYU/view?usp=sharing&t=117"> ▶️ Watch the Project Demo </a> </p> <p align="center"> <i>GitHub does not support embedding Google Drive videos directly.</i> </p>
+<h2 align="center">🛠 Tech Stack</h2> <p align="center"><b>Frontend</b></p>
 
-Individuals
-
-NGOs
-
-Local communities
-
-Policymakers
-Not just enterprises.
-
-<p align="center"> <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="260"> </p>
-🎥 Demo Video
-
-👉 Watch the project demo here:
-🔗 https://drive.google.com/file/d/15MGhlgkW2ATjjL0ZTP2NJRyQtvw_NMYU/view?usp=sharing&t=117
-
-GitHub does not support embedding Google Drive videos directly.
-Click the link to view the demo.
-
-🛠 Tech Stack
-
-Frontend
 TypeScript
+
 Modern UI framework
-Backend
+
+<p align="center"><b>Backend</b></p>
+
 Python based APIs
+
 Data processing and analytics
-Tools
+
+<p align="center"><b>Tools</b></p>
+
 Git
+
 GitHub
 
-Hackathon driven rapid prototyping
-
-📁 Project Structure
+<h2 align="center">📁 Project Structure</h2>
 CarbonScopeHackx/
-│
 ├── frontend/        # User interface
-├── backend/         # APIs and logic
-├── README.md        # Documentation
+├── backend/         # APIs and core logic
+├── README.md        # Project documentation
 ├── LICENSE
 └── .gitignore
 
-🤝 Team Project
-
-This project was developed as a team hackathon submission.
-
-Team Members
-Namita Narang
-Aastha Kapoor
-Spriha Podder
-Rakshita Singh
-Aarushi Shreevastava
-
-🌱 Vision
-
-Most platforms stop at tracking and reporting.
-CarbonScope aims to go further:
-Track → Understand → Act → Restore
-Local actions meeting global climate goals 🌍
-
-📜 License
-
-This project is licensed under the MIT License.
+<h2 align="center">🤝 Team Project</h2> <p align="center"> This project was developed as a team hackathon submission. </p> <p align="center"><b>Team Members</b></p> <p align="center"> Namita Narang <br> Aastha Kapoor <br> Spriha Podder <br> Rakshita Singh <br> Aarushi Shreevastava </p>
+<h2 align="center">🌱 Vision</h2> <p align="center"> Most platforms stop at tracking and reporting.<br> CarbonScope aims to go further. </p> <p align="center"><b> Track → Understand → Act → Restore </b></p> <p align="center"> Local actions aligned with global climate goals 🌍 </p>
+<h2 align="center">📜 License</h2> <p align="center"> This project is licensed under the <b>MIT License</b>. </p>
