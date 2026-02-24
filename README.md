@@ -1,5 +1,5 @@
 <h1><p align="center">🌍 CarbonScope 🌱</p> </h1>
-<p align="center"> <b>Agentic Net Zero Intelligence</b><br> <i>Measure. Act. Restore. Together.</i> </p> <p align="center"> 🏆 <b>Runner Up – MUJ HackX 2025</b><br> 🎯 <b>AI for Social Impact</b> </p>
+<p align="center"> <b>Agentic AI </b><br> <i>Measure. Act. Restore. Together.</i> </p> <p align="center"> 🏆 <b>Runner Up – MUJ HackX 2025</b><br> 🎯 <b>AI for Social Impact</b> </p>
 <p align="center"> <img src="https://img.shields.io/badge/STATUS-HACKATHON%20PROJECT-2ecc71?style=for-the-badge"/> <img src="https://img.shields.io/badge/FOCUS-SUSTAINABILITY-27ae60?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI-INTELLIGENCE-8e44ad?style=for-the-badge"/> <img src="https://img.shields.io/badge/WEB-PLATFORM-2980b9?style=for-the-badge"/> </p>
 <p align="center"> <b>A sustainability intelligence platform to track, understand, and act on digital carbon emissions.</b><br> <i>Built to make invisible environmental impact visible.</i> </p>
 <h1>🌎 Why CarbonScope Exists</h1>
